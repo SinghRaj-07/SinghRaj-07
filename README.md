@@ -1,26 +1,160 @@
-<h1 align="center">Hi 👋, I'm Raj Singh</h1>
-<h3 align="center">B.Tech CSE Student ,| Aspiring Software Developer .</h3>
 
-- 🔭 I’m currently working on **Improving my programming and problem-solving skills**
+<!-- ================= HEADER ================= -->
 
-- 🌱 I’m currently learning **Java, Data Structures and Algorithms, Python, Web Development**
+<div align="center">
 
-- 💬 Ask me about **Java, DSA ,Python, C Programming, OOP and Web Development**
+# 👋 Hey, I'm Raj Singh
 
-- 📫 How to reach me **singhrajk100@gmail.com**
+### 💻 B.Tech CSE Student | Aspiring Software Developer
 
-- ⚡ Fun fact **Always curious to learn some new things and solve problems.**
+**Building skills. Solving problems. Creating things that matter.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/singhraj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhraj07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/singhraj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="singhraj07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/singhraj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singhraj07" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=singhraj-07&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhraj-07&show_icons=true&locale=en&layout=compact" alt="singhraj-07" /></p>
+<a href="https://github.com/singhraj-07">
+  <img src="https://img.shields.io/badge/GitHub-singhraj--07-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://linkedin.com/in/singhraj07">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:singhrajk100@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhraj-07&" alt="singhraj-07" /></p>
+</div>
+
+---
+
+<!-- ================= ABOUT ME ================= -->
+
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at GLA University.
+- 💻 Interested in Software Development and Web Technologies.
+- ☕ Intermediate knowledge of Java and Python.
+- 🌱 Currently learning Data Structures & Algorithms.
+- 🧠 Practicing problem-solving through LeetCode and Codeforces.
+- 🎯 Focused on improving programming fundamentals and development skills.
+- 📫 Reach me at: **singhrajk100@gmail.com**
+
+---
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 🎯 Currently Focusing On
+
+| Area | Focus |
+|---|---|
+| Java | Programming and OOP |
+| DSA | Problem Solving and Algorithms |
+| Python | Programming and Libraries |
+| Web Development | Frontend Fundamentals |
+| Competitive Programming | LeetCode & Codeforces |
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Languages & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,mysql,git,linux&theme=dark" />
+
+</div>
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://ghstats.dev/api/card?username=singhraj-07&theme=tokyonight" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://ghstats.dev/api/langs?username=singhraj-07&theme=tokyonight&layout=compact" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTIONS ================= -->
+
+## 🔥 Contribution Activity & Streak
+
+<div align="center">
+
+<img width="95%" src="https://gitshine.com/card/singhraj-07?theme=night" alt="GitHub Contribution Graph, Stars and Streak"/>
+
+</div>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## ⭐ Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/singhraj-07/Bridgelabz-training-1Y">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=singhraj-07&repo=Bridgelabz-training-1Y&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/singhraj-07/Bridgelabz-training-2Y">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=singhraj-07&repo=Bridgelabz-training-2Y&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/singhraj-07/LeetCode-Solutions">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=singhraj-07&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/singhraj-07?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+<!-- ================= CODING PROFILES ================= -->
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/singhraj07/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/singhraj07">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, exploring new technologies and connecting with fellow developers.
+
+<a href="https://github.com/singhraj-07">GitHub</a> •
+<a href="https://linkedin.com/in/singhraj07">LinkedIn</a> •
+<a href="mailto:singhrajk100@gmail.com">Email</a>
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning. Keep Building. Keep Growing.**
+
+</div>
