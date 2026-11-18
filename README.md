@@ -78,59 +78,50 @@
 ---
 
 
-
-<!-- ====================================================== -->
-<!--                    GITHUB ANALYTICS                    -->
-<!-- ====================================================== -->
-
-<h2 align="center">📊 GitHub Analytics Dashboard</h2>
+<h2 align="center">📊 MY GITHUB DASHBOARD</h2>
 
 <p align="center">
-  <i>A quick overview of my GitHub activity, repositories and coding languages.</i>
+  <i>Learning, building and growing one commit at a time.</i>
 </p>
 
-<br/>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsinghraj-07&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=1F6FEB&logo=github" />
-
-<img src="https://img.shields.io/github/followers/singhraj-07?label=Followers&style=for-the-badge&color=238636&logo=github" />
-
-<img src="https://img.shields.io/github/stars/singhraj-07?style=for-the-badge&label=Total%20Stars&color=DAA520&logo=github" />
+| 💻 GitHub Profile | 🚀 Explore My Work |
+|:---:|:---:|
+| [Repositories](https://github.com/singhraj-07?tab=repositories) | [LeetCode Solutions](https://github.com/singhraj-07/LeetCode-Solutions) |
+| [Contribution History](https://github.com/singhraj-07?tab=overview) | [1st Year Training](https://github.com/singhraj-07/Bridgelabz-training-1Y) |
+| [Followers](https://github.com/singhraj-07?tab=followers) | [2nd Year Training](https://github.com/singhraj-07/Bridgelabz-training-2Y) |
 
 </div>
 
-<br/>
+---
+
+<h3 align="center">🎯 MY DEVELOPER JOURNEY</h3>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=singhraj-07&show_icons=true&hide_rank=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D4AA&text_color=C9D1D9&border_radius=12" alt="GitHub Statistics"/>
-
-</td>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhraj-07&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12" alt="Most Used Languages"/>
-
-</td>
-</tr>
-</table>
+| Area | Current Focus |
+|:---|:---|
+| ☕ Programming | Java, Python, C |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+| 🌐 Development | HTML, CSS, JavaScript |
+| 🛠️ Tools | Git & GitHub |
+| 📚 Learning | Consistent coding and projects |
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+<h3 align="center">⭐ EXPLORE MY REPOSITORIES</h3>
 
-**📈 Consistency • 💻 Contributions • ⭐ Open Source**
-
-</div>
-
-
+<p align="center">
+  <a href="https://github.com/singhraj-07?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/singhraj-07">
+    <img src="https://img.shields.io/badge/VISIT_MY_PROFILE-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 
 ---
