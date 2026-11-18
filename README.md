@@ -78,51 +78,78 @@
 ---
 
 
-<h2 align="center">📊 MY GITHUB DASHBOARD</h2>
+<!-- ================= GITHUB ANALYTICS ================= -->
 
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 <p align="center">
-  <i>Learning, building and growing one commit at a time.</i>
+  <i>My coding activity, repository statistics & language distribution</i>
 </p>
 
-<div align="center">
+<br/>
 
-| 💻 GitHub Profile | 🚀 Explore My Work |
-|:---:|:---:|
-| [Repositories](https://github.com/singhraj-07?tab=repositories) | [LeetCode Solutions](https://github.com/singhraj-07/LeetCode-Solutions) |
-| [Contribution History](https://github.com/singhraj-07?tab=overview) | [1st Year Training](https://github.com/singhraj-07/Bridgelabz-training-1Y) |
-| [Followers](https://github.com/singhraj-07?tab=followers) | [2nd Year Training](https://github.com/singhraj-07/Bridgelabz-training-2Y) |
-
-</div>
-
----
-
-<h3 align="center">🎯 MY DEVELOPER JOURNEY</h3>
+<!-- MAIN STATS + LANGUAGE PIE -->
 
 <div align="center">
-
-| Area | Current Focus |
-|:---|:---|
-| ☕ Programming | Java, Python, C |
-| 🧠 Problem Solving | Data Structures & Algorithms |
-| 🌐 Development | HTML, CSS, JavaScript |
-| 🛠️ Tools | Git & GitHub |
-| 📚 Learning | Consistent coding and projects |
-
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=singhraj-07&show_icons=true&hide_rank=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D4AA&text_color=C9D1D9&border_radius=12"
+    alt="GitHub Statistics" />
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhraj-07&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12"
+    alt="Most Used Languages" />
 </div>
 
----
+<br/>
 
-<h3 align="center">⭐ EXPLORE MY REPOSITORIES</h3>
+<!-- CONTRIBUTION GRAPH -->
+
+<h3 align="center">📈 CONTRIBUTION ACTIVITY</h3>
+
+<div align="center">
+  <img width="98%"
+    src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=singhraj-07&bg_color=0D1117&color=58A6FF&line=00D4AA&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Raj's%20Contribution%20Activity"
+    alt="Contribution Activity Graph" />
+</div>
+
+<br/>
+
+<!-- STREAK STATS -->
+
+<h3 align="center">🔥 CONTRIBUTION STREAK</h3>
+
+<div align="center">
+  <img width="75%"
+    src="https://streak-stats.demolab.com?user=singhraj-07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub Streak Statistics" />
+</div>
+
+<br/>
+
+<!-- FEATURED REPOSITORIES -->
+
+<h3 align="center">🚀 FEATURED REPOSITORIES</h3>
+
+<div align="center">
+  <a href="https://github.com/singhraj-07/Bridgelabz-training-1Y">
+    <img width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=singhraj-07&repo=Bridgelabz-training-1Y&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/singhraj-07/Bridgelabz-training-2Y">
+    <img width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=singhraj-07&repo=Bridgelabz-training-2Y&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/singhraj-07/LeetCode-Solutions">
+    <img width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=singhraj-07&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
-  <a href="https://github.com/singhraj-07?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/singhraj-07">
-    <img src="https://img.shields.io/badge/VISIT_MY_PROFILE-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <b>💻 CODE • 📈 LEARN • 🚀 BUILD • 🔥 REPEAT</b>
 </p>
 
+<!-- ================= END ANALYTICS ================= -->
 
 ---
 
