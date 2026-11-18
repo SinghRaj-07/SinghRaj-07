@@ -83,22 +83,15 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhraj-07&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=false" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhraj-07&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Repositories-Live%20on%20GitHub-1F6FEB?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/Analytics-Auto%20Updated-238636?style=flat-square"/>
+<img width="49%" src="https://ghstats.dev/api/card?username=singhraj-07&theme=tokyonight" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://ghstats.dev/api/langs?username=singhraj-07&theme=tokyonight&layout=compact" alt="Top Languages"/>
 
 </div>
+
 
 ---
 
