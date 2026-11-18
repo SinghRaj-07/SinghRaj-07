@@ -77,20 +77,59 @@
 
 ---
 
+
 <!-- ====================================================== -->
 <!--                    GITHUB ANALYTICS                    -->
 <!-- ====================================================== -->
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
+<p align="center">
+  <i>A quick overview of my GitHub activity, repositories and coding languages.</i>
+</p>
+
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://ghstats.dev/api/card?username=singhraj-07&theme=tokyonight" alt="GitHub Statistics"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsinghraj-07&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=1F6FEB&logo=github" />
 
-<img width="49%" src="https://ghstats.dev/api/langs?username=singhraj-07&theme=tokyonight&layout=compact" alt="Top Languages"/>
+<img src="https://img.shields.io/github/followers/singhraj-07?label=Followers&style=for-the-badge&color=238636&logo=github" />
+
+<img src="https://img.shields.io/github/stars/singhraj-07?style=for-the-badge&label=Total%20Stars&color=DAA520&logo=github" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=singhraj-07&show_icons=true&hide_rank=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D4AA&text_color=C9D1D9&border_radius=12" alt="GitHub Statistics"/>
+
+</td>
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhraj-07&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12" alt="Most Used Languages"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**📈 Consistency • 💻 Contributions • ⭐ Open Source**
+
+</div>
+
+
 
 
 ---
