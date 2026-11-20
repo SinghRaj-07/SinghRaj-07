@@ -92,19 +92,6 @@
 
 <br/>
 
-<!-- ====================================================== -->
-<!--                   CONTRIBUTION STREAK                  -->
-<!-- ====================================================== -->
-
-## ⚡ Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=singhraj-07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="75%" alt="GitHub Streak"/>
-
-</div>
-
----
 
 <!-- ====================================================== -->
 <!--                   FEATURED PROJECTS                    -->
